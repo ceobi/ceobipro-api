@@ -2,6 +2,6 @@
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.bhex.com](https://api.bhex.com)**
-web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
-user-data-stream | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
+rest-api | **[https://api.ceobi.pro](https://api.ceobi.pro)**
+web-socket-streams | **[wss://wsapi.ceobi.pro](wss://wsapi.ceobi.pro)**
+user-data-stream | **[wss://wsapi.ceobi.pro](wss://wsapi.ceobi.pro)**
