@@ -5,8 +5,8 @@ def handler(msg):
     print(msg)
 
 
-entry_point = 'wss://wsapi.yourbroker.com/openapi/'  # input your broker websocket api url
-rest_entry_point = 'https://api.yourbroker.com/openapi/'  # input your broker api uri
+entry_point = 'wss://wsapi.ceobi.pro/openapi/'  # input your broker websocket api url
+rest_entry_point = 'https://api.ceobi.pro/openapi/'  # input your broker api uri
 
 client = BrokerWss(entry_point, rest_entry_point, api_key='', secret='')
 
