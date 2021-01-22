@@ -5,11 +5,7 @@ import java.util.List;
 import lombok.Singular;
 
 /**
- * @ProjectName:
- * @Package:
- * @Author: yuehao  <hao.yue@bhex.com>
- * @CreateDate: 2020-06-04 11:10
- * @Copyright（C）: 2018 BHEX Inc. All rights reserved.
+ * 
  */
 public class OrderResult {
 
